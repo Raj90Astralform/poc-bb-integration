@@ -6,6 +6,6 @@ pipelines:
         clone:
           enabled: false
         script:
-          - git clone --bare git@bitbucket.org:Sitecore Migration POC/poc-bb-integration.git
+          - git clone --bare git@bitbucket.org:CAA-eProd/poc-bb-integration.git
           - cd poc-bb-integration.git
           - git push --mirror git@github.com:Raj90Astralform/poc-bb-integration.git
