@@ -15,7 +15,7 @@ sections:
       label: Get Started
       url: /
       theme: outline
-    theme: imgLeft
+    theme: ''
   - type: hero
     heading: This is your main value proposition
     body: >
