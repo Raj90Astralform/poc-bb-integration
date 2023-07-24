@@ -9,6 +9,7 @@
         "lint": "next lint"
     },
     "dependencies": {
+        "ccg-rewards": "^0.0.0-dev.20",
         "glob": "^8.1.0",
         "gray-matter": "^4.0.3",
         "markdown-to-jsx": "^7.2.1",
